@@ -37,7 +37,7 @@ Follow these steps to set up and run the Weather Dashboard locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/weather-dashboard.git
+   git clone https://github.com/Hardev-Herma/weather-dashboard.git
    cd weather-dashboard
    ```
 
